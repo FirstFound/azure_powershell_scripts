@@ -1,0 +1,1 @@
+New-Item 'HKLM:\Software\Microsoft\MSRDC\Policies' -Force | New-ItemProperty -Name AutomaticUpdates -Value 2 -Force
