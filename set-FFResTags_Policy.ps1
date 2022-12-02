@@ -1,3 +1,8 @@
+/* Instructions 
+Edit the $service variable on line 6 to the desired value of the "Service" tag.
+Edit the resource group search term on line 21 to reflect the resource group of the tags to be updated.
+*/
+
 $service            = "Networking"
 $res                = "Greystone"
 $data               = "IT"
